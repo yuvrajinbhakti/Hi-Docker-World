@@ -34,6 +34,12 @@ To run this project locally, you'll need to have Docker installed on your machin
 
 2. **Build the Docker Image:**
 
+    ```bash
+   docker build -t yuvraj366/hidockerworld:0.0.1.RELEASE .
+   ```
+
+Here if we don't write any tag (or version) name then it by default takes tag to be latest.
+
    ```bash
    docker build -t yuvraj366/hidockerworld .
    ```
