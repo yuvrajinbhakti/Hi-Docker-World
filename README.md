@@ -51,7 +51,7 @@ To run this project locally, you'll need to have Docker installed on your machin
 The Docker image for this application is publicly available on DockerHub and can be pulled using the following command:
 
 ```bash
-docker pull yuvraj366/hidockerworld
+docker pull yuvraj366/hidockerworld:0.0.1.RELEASE
 ```
 
 You can find the Docker image on DockerHub [here](https://hub.docker.com/repository/docker/yuvraj366/hidockerworld).
